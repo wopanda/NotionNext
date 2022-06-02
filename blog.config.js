@@ -2,7 +2,7 @@
 const BLOG = {
   AUTHOR: 'panda', // 作者
   BIO: '一个普通的打工仔', // 作者简介
-  LINK: 'https://notion-next-sigma-eight.vercel.app/', // 网站地址
+  LINK: 'https://notion-next-xi-five.vercel.app/', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
   process.env.NOTION_PAGE_ID || '89b36266f7ef4acd853537ef32ae46cd', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
